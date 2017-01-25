@@ -1,0 +1,56 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Minesolver.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Solver.cpp
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1532): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1541): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1549): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1576): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1585): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1593): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1628): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1637): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1645): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1672): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1681): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1689): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1724): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1733): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1741): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1768): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1777): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1785): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1820): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1829): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1837): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1864): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1873): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1881): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1916): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1925): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1933): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(1993): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2001): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2023): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2031): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2061): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2069): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2091): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2099): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2129): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2137): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2159): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2167): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2197): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2205): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2227): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2235): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2265): warning C4018: '<': signed/unsigned mismatch
+c:\users\nato\documents\github\minesweeper\minesolver\solver.cpp(2273): warning C4018: '<': signed/unsigned mismatch
+  Minesweeper.cpp
+c:\users\nato\documents\github\minesweeper\minesolver\minesweeper.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\nato\documents\github\minesweeper\minesolver\minesweeper.cpp(275): warning C4018: '<': signed/unsigned mismatch
+  Minesweeper Functions.cpp
+  Generating Code...
+  Minesolver.vcxproj -> C:\Users\Nato\Documents\GitHub\Minesweeper\Debug\Minesweeper.exe
+  Minesolver.vcxproj -> C:\Users\Nato\Documents\GitHub\Minesweeper\Debug\Minesweeper.pdb (Full PDB)
